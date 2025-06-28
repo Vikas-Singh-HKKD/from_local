@@ -22,3 +22,5 @@ if __name__ == "__main__":
 # Output:
 # Prime numbers from 1 to 100: [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
 # The code is complete and will print the prime numbers from 1 to 100 when executed.
+
+# The code is complete and will print the prime numbers from 1 to 100 when executed.
